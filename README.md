@@ -20,3 +20,35 @@ A dashboard application built for CIT308, providing [brief description — e.g. 
 - **Other libraries:** [e.g. pandas, matplotlib]
 
 ## Project Structure
+
+## Setup & Installation
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/saneejmsm-sudo/Dashboard.git
+   cd Dashboard
+```
+
+2. Create and activate a virtual environment:
+```bash
+   python -m venv .venv
+   .venv\Scripts\activate   # Windows
+```
+
+3. Install dependencies:
+```bash
+   pip install -r requirements.txt
+```
+
+4. Run the app:
+```bash
+   python app.py
+```
+
+## Usage
+
+[Brief instructions on how to use the dashboard once it's running]
+
+## Author
+
+MSM Saneej— CIT308 coursework project
